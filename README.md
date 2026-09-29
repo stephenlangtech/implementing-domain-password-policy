@@ -27,7 +27,9 @@ In this tutorial, we configure password security policies using Group Policy in 
 * Select:
   **Edit**  
   
-  <img src="Screenshot 2026-09-27 100807.png" width="80%" height="80%">
+  <img src="Screenshot 2026-09-27 100807.png" width="80%" height="80%">  
+
+  <img src="Screenshot 2026-09-27 100825.png" width="50%" height="50%">
 
 ### 2. Navigate to Password Policy Settings
 
@@ -40,7 +42,9 @@ In this tutorial, we configure password security policies using Group Policy in 
   → **Account Policies**
   → **Password Policy**
 
-The Password Policy section contains the settings used to establish password requirements for domain accounts.
+The Password Policy section contains the settings used to establish password requirements for domain accounts.  
+
+  <img src="Screenshot 2026-09-27 100910.png" width="65%" height="65%">
 
 ### 3. Configure Maximum Password Age
 
@@ -85,7 +89,9 @@ This requires domain passwords to meet Windows password complexity requirements.
 * Click:
   **OK**
 
-This prevents users from creating passwords shorter than 12 characters.
+This prevents users from creating passwords shorter than 12 characters.  
+
+<img src="Screenshot 2026-09-27 100943.png" width="65%" height="65%">
 
 ### 6. Force a Group Policy Update
 
@@ -97,6 +103,8 @@ gpupdate /force
 ```
 
 * This forces the client to retrieve and process the latest applicable Group Policy settings.
+
+<img src="Screenshot 2026-09-27 101210.png" width="65%" height="65%">
 
 ### 7. Verify the Password Security Policy
 
