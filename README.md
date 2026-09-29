@@ -25,7 +25,9 @@ In this tutorial, we configure password security policies using Group Policy in 
 * Expand the domain.
 * Right-click **Default Domain Policy**.
 * Select:
-  **Edit**
+  **Edit**  
+  
+  <img src="https://example.com/image.png" width="80" height="80">
 
 ### 2. Navigate to Password Policy Settings
 
