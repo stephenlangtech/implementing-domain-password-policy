@@ -27,7 +27,7 @@ In this tutorial, we configure password security policies using Group Policy in 
 * Select:
   **Edit**  
   
-  <img src="https://example.com/image.png" width="80" height="80">
+  <img src="Screenshot 2026-09-27 100807.png" width="80%" height="80%">
 
 ### 2. Navigate to Password Policy Settings
 
